@@ -6,7 +6,7 @@
 * and more...
 
 # Screenshots
-![Source code and test script](https://github.com/DiamondShopSystem/BackEnd/blob/main/screenshots/Screenshot%202024-07-31%20023318.png)
+![Source code and test script](https://github.com/gahoccode215/ZodiacGUIApp/blob/main/images/Screenshot%202024-09-23%20133915.png)
 ### Connect me via: dominhit215@gmail.com
 
 #### &#169; 2024 gahoccode215

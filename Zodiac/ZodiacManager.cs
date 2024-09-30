@@ -34,7 +34,13 @@ namespace Zodiac
 
         private void btnQuit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult answer = MessageBox.Show("Do you really want to exit?", "Exit?", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (answer == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+
         }
 
         private void lblResult_Click(object sender, EventArgs e)

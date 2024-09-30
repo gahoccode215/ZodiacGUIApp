@@ -19,3 +19,4 @@ D:\self-learning\csharp-dotnet\prn211\session07-gui\YourFate\Zodiac\obj\Debug\ne
 D:\self-learning\csharp-dotnet\prn211\session07-gui\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.pdb
 D:\self-learning\csharp-dotnet\prn211\session07-gui\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.genruntimeconfig.cache
 D:\self-learning\csharp-dotnet\prn211\session07-gui\YourFate\Zodiac\obj\Debug\net8.0-windows\ref\Zodiac.dll
+D:\self-learning\csharp-dotnet\prn211\session07-gui\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.sourcelink.json

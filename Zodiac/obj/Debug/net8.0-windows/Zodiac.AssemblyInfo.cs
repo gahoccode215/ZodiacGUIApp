@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zodiac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f29a16844d32c55391f6fddf566af242f356da0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zodiac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zodiac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
